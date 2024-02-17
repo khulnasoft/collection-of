@@ -1,0 +1,6 @@
+configuration:
+  min_stars: 10
+  require_github: True
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  projects_history_folder: "history"
