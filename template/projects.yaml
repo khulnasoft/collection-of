@@ -1,0 +1,19 @@
+configuration:
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+
+categories:
+  # - category: "data-engineering"
+  #   title: "Machine Learning & Data Engineering"
+  #   subtitle: "collection-of lists about machine learning, data engieering, data science, or other topics related to big data."
+
+labels:
+  # - label: "python"
+  #   image: "https://www.python.org/static/favicon.ico"
+  #   description: "collection-of list with Python projects"
+
+projects:
+  # - name: collection-of-ml-python
+  #   github_id: ml-tooling/collection-of-ml-python
+  #   labels: ["python"]
+  #   category: "data-engineering"
